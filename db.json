@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Ficus",
+      "image": "https://www.gardeningknowhow.com/wp-content/uploads/2012/02/ficus1.jpg",
+      "price": 13.45,
+      "id": 8
     }
   ]
 }
